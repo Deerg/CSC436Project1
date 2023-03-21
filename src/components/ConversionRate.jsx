@@ -1,7 +1,6 @@
 
 import { useState, useEffect } from "react";
 import axios from "axios";
-import { generate } from "@vue/compiler-core";
 
 const ConversionRates = () => {
 
